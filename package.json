@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.2.0",
     "tsconfig-paths": "^3.10.1"
   }
 }
